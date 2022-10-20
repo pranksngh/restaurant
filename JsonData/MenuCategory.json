@@ -1,0 +1,13 @@
+[
+  {
+        "menuid": "01",
+        "menuName": "Snacks",
+        "image":
+            "https://i.pinimg.com/736x/7c/47/44/7c4744fa2d6e36bb69657845d7eb9b11.jpg"
+      },
+      {
+        "menuid": "02",
+        "menuName": "Breverages",
+        "image": "https://i.pinimg.com/736x/7c/47/44/7c4744fa2d6e36bb69657845d7eb9b11.jpg"
+      }
+]
